@@ -20,5 +20,6 @@
 
 ## Studying in this moment 📖
 <div style= "display: inline-block"><br/>
-    <img align="center" alt="nextjs" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=nextjs&logoColor=white" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain.svg" />
 </div><br/>
