@@ -18,3 +18,8 @@
     <img align="center" alt="css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
+## Studying in this moment 📖
+<div style= "display: inline-block"><br/>
+    <img align="center" alt="fastapi" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" />
+    <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
+</div><br/>
