@@ -19,7 +19,7 @@
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ddaavyy&layout=compact&hide_border=true&title_color=3D6DFF&text_color=70A0FF&bg_color=1B202E"/>
 </div>
 
-<picture>
+ <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ddaavyy/ddaavyy/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ddaavyy/ddaavyy/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ddaavyy/ddaavyy/output/github-contribution-grid-snake.svg">
@@ -44,7 +44,8 @@
 <h3 align="center"> Estudando No Momento</h3>
 <div style= "display: inline-block"><br/>
     <img align="center" alt="django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
-    <img align="center" alt="django" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="docker" src="https://img.shields.io/badge/docker-257bd6?style=for-the-badge&logo=docker&logoColor=white" />
+    <img align="center" alt="posrtgree" src="https://img.shields.io/badge/postgresql-4169e1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </div>
 
 ---
